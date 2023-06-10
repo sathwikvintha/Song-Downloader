@@ -1,0 +1,18 @@
+THE FOLLOWING MODULES ARE NEEDED IN ORDER FOR PROGRAM TO WORK
+
+FOR PYTHON 2 VERSION :
+
+pip install beautifulsoup4
+pip install selenium
+pip install PyQt5
+pip install youtube-dl
+pip install ffmpeg
+
+FOR PYTHON 3 VERSION :
+pip3 install beautifulsoup4
+pip3 install selenium
+pip3 install PyQt5
+pip3 install youtube-dl
+pip3 install ffmpeg
+
+THE REST OF OTHER MODULES USED IN OUR PROJECT ARE NATIVE ONES !
